@@ -1,0 +1,3 @@
+platform,property_type,deal_type,sido,sigungu,eupmyeon_dong,ri,jibun,building_dong,detail_addr,deposit,monthly_rent,maintenance_fee,exclusive_area_m2,supply_area_m2,floor,total_floor,room_count,bath_count,direction,direction_basis,parking,move_in_date,title,memo,option_aircon,option_life,option_security,option_etc,photo_folder
+aipartner,oneroom,monthly,울산,울주군,온산읍,덕신리,1299-18,,202,300,35,5,26.4,26.4,2,4,1,1,동향,안방,Y,즉시입주,덕신리 원룸 월세,깔끔하고 채광 좋은 원룸입니다.,TRUE,냉장고|세탁기|침대,CCTV,,photos/001
+aipartner,oneroom,monthly,울산,울주군,범서읍,굴화리,758,101동,403,500,45,7,29.7,29.7,4,10,1,1,남향,거실,Y,2026-07-20,굴화리 원룸 월세,범서읍 굴화리 생활권의 깔끔한 원룸입니다.,벽걸이에어컨,냉장고|세탁기|침대,CCTV,베란다,

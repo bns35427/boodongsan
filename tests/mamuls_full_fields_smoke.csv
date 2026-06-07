@@ -1,0 +1,2 @@
+platform,property_type,deal_type,sido,sigungu,eupmyeon_dong,ri,jibun,building_dong,detail_addr,deposit,monthly_rent,maintenance_fee,exclusive_area_m2,supply_area_m2,floor,total_floor,room_count,bath_count,direction,direction_basis,parking,move_in_date,title,memo,option_aircon,option_life,option_security,option_etc,photo_folder
+aipartner,oneroom,monthly,울산,남구,무거동,,834,,101,300,35,5,26.4,26.4,2,4,1,1,동향,거실,Y,2026-07-15,무거동 원룸 월세,지정일 방향기준 기타옵션 사진 다중 업로드 점검,벽걸이에어컨,냉장고|세탁기|침대,CCTV,베란다|무인택배함,tests/assets/upload_photos

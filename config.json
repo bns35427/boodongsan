@@ -1,0 +1,37 @@
+{
+  "site": {
+    "ad_regist_url": "https://www.aipartner.com/offerings/ad_regist",
+    "timeout_ms": 15000,
+    "navigation_timeout_ms": 30000,
+    "submit_timeout_ms": 30000
+  },
+  "browser": {
+    "headless": false,
+    "slow_mo_ms": 0,
+    "user_data_dir": ".aipartner-profile",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    }
+  },
+  "paths": {
+    "result_csv": "logs/result.csv",
+    "screenshots_dir": "screenshots"
+  },
+  "units": {
+    "maintenance_fee_multiplier": 10000
+  },
+  "maintenance_fee": {
+    "detail_type": "정액관리비가 10만원 미만인 경우",
+    "included_items": [],
+    "none_reason": "별도 관리비 없음"
+  },
+  "options": {
+    "default_aircon": "벽걸이에어컨"
+  },
+  "photos": {
+    "max_count": 20,
+    "fail_on_missing_folder": false,
+    "fail_on_empty_folder": false
+  }
+}
